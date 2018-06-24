@@ -1,0 +1,12 @@
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\bin\Debug\blinkitlogitechlcd.exe.config
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\bin\Debug\blinkitlogitechlcd.exe
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\bin\Debug\blinkitlogitechlcd.pdb
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\bin\Debug\blinkitlogitechlcd.xml
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\obj\Debug\blinkitlogitechlcd.vbprojResolveAssemblyReference.cache
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\obj\Debug\WindowsApp1.Form1.resources
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\obj\Debug\WindowsApp1.Resources.resources
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\obj\Debug\blinkitlogitechlcd.vbproj.GenerateResource.cache
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\obj\Debug\blinkitlogitechlcd.vbproj.CoreCompileInputs.cache
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\obj\Debug\blinkitlogitechlcd.exe
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\obj\Debug\blinkitlogitechlcd.xml
+X:\BlinkIT\blinkitlogitechlcd\blinkitlogitechlcd\obj\Debug\blinkitlogitechlcd.pdb
