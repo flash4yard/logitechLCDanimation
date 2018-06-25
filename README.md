@@ -1,6 +1,6 @@
 # Logitech LCD animation tool
 
-This software is designed to be integrated into the blinkit software from @techtek. BUT it can be used as a stand alone!
+This software is designed to be integrated into the [blinkit software](https://github.com/techtek/Blinkit) by [@techtek](https://steemit.com/@techtek). BUT it can be used as a stand alone!
 Also you can implement the code into your own project if you want.
 
 ## Use it as a standalone
